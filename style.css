@@ -302,6 +302,7 @@ a:hover {
 }
 
 .navbar-brand img {
+    width: auto;
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
@@ -650,7 +651,7 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
+    font-weight: 600;
     color: #575757!important;
 }
 
@@ -814,7 +815,7 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-banniere {
@@ -824,7 +825,7 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
 }
-.img-responsive, .img{
+.img-responsive{
     width: 100%;
     height: 100%;
 }
